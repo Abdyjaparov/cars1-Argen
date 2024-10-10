@@ -1,0 +1,5 @@
+Car ID: bmw2
+Car Model: m5
+Year of Manufacture: 2004
+Price: 20.000
+Color: black
